@@ -25,4 +25,10 @@ public class day2 {
 		System.out.println("bad");
 	}
 	
+	public void plan1()
+	{
+		System.out.println("good");
+		System.out.println("bad");
+	}
+	
 }
