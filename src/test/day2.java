@@ -18,4 +18,11 @@ public class day2 {
 		System.out.println("I will execute first");
 		System.out.println("Again some changes");
 	}
+	
+	public void plan()
+	{
+		System.out.println("good");
+		System.out.println("bad");
+	}
+	
 }
