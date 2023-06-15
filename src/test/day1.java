@@ -9,6 +9,14 @@ public class day1 {
 
 
 		// TODO Auto-generated method stub
+	
+	@Test
+	public void demo()
+	{
+		System.out.println("For git demo");
+		System.out.println("To learn git");
+		System.out.println("to push changes to github");
+	}
 	@AfterTest
 	public void lastexecution()
 	{
